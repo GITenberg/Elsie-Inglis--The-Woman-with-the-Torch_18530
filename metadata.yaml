@@ -1,0 +1,33 @@
+_repo: Elsie-Inglis--The-Woman-with-the-Torch_18530
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Ashwell, Lena
+    birthdate: 1872
+    deathdate: 1957
+    gutenberg_agent_id: '8090'
+    url: http://www.gutenberg.org/2009/agents/8090
+    wikipedia: http://en.wikipedia.org/wiki/Lena_Ashwell
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McLaren, Eva Shaw
+    gutenberg_agent_id: '8089'
+    url: http://www.gutenberg.org/2009/agents/8089
+description: ''
+gutenberg_issued: '2006-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18530'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Physicians -- Scotland -- Biography'
+- !lcsh 'Inglis, Elsie Maud, 1864-1917'
+- !lcc 'R'
+title: 'Elsie Inglis: The Woman with the Torch'
+url: http://www.gutenberg.org/ebooks/18530
